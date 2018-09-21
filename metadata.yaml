@@ -1,0 +1,27 @@
+_repo: One-Touch-of-Nature-A-Petite-Drama-in-One-Act_54172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Benjamin
+    aliases:
+    - Webster, B. (Benjamin)
+    - Webster, Benjamin Nottingham
+    birthdate: 1797
+    deathdate: 1882
+    gutenberg_agent_id: '47747'
+    url: http://www.gutenberg.org/2009/agents/47747
+description: ''
+gutenberg_issued: '2017-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'One Touch of Nature: A Petite Drama, in One Act'
+url: http://www.gutenberg.org/ebooks/54172
